@@ -1,4 +1,5 @@
 # Veri-Algoritmalar-Proje-1
+https://app.patika.dev/akerem
 					
                   Dizi (n=6)                  	Best Case	Avarage Case	Worst Case
 		          [22,27,16,2,18,6]	                  O(n)	      ✓	          O(n²)
